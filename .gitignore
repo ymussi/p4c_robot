@@ -1,0 +1,4 @@
+__pycache__/
+robot/api/__pycache__
+robot/codigo/__pycache__
+/ROBOT.egg-info
